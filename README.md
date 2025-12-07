@@ -7,6 +7,6 @@ Throughout the semester, I explore a range of topics such as data preprocessing,
 
 My coursework includes building predictive models, performing clustering and sentiment analysis, experimenting with neural networks, evaluating model performance, and presenting findings in a business context. Using tools such as Scikit-Learn, TensorFlow, and Python-based analytics environments, I learn how to turn data into decision-support insights.
 
-Beyond technical skills, the course emphasizes ethical AI, problem formulation, and communicating machine learning results to non-technical audiences. Through these projects, I aim to strengthen my ability to design end-to-end data solutions - from cleaning raw data to model deployment — and understand how machine learning creates strategic value in organizations.
+Beyond technical skills, the course emphasizes ethical AI, problem formulation, and communicating machine learning results to non-technical audiences. Through these projects, I aim to strengthen my ability to design end-to-end data solutions - from cleaning raw data to model deployment - and understand how machine learning creates strategic value in organizations.
 
 This repository showcases my code, exercises, experiments, and project deliverables from the course as I continue learning and improving my machine learning competency.
